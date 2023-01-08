@@ -1,0 +1,242 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+  }
+  /* header section */
+  .header-bg {
+    background: url(../banner1.png);
+    width: 1600px;
+    height: 808px;
+  }
+  
+  .header-title {
+    weight: 700;
+    size: 65px;
+    color: black;
+    text-align: right;
+    padding-top: 216px;
+  }
+  .header-paragraph {
+    weight: 400;
+    size: 16px;
+    color: black;
+    text-align: right;
+    line-height: 26px;
+    margin-top: 24px;
+    margin-bottom: 32px;
+  }
+  .contact-btn {
+    border-radius: 5px;
+    border: 0;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    text-align: right;
+    line-height: 23px;
+    color: black;
+    padding: 20px 25px;
+    background-color: orangered;
+  }
+  .btn {
+    text-align: right;
+    padding-bottom: 166px;
+  }
+  .header-content {
+    margin-left: 845px;
+    margin-right: 230px;
+  }
+  
+  /* failure styles */
+  .my-failure {
+    display: flex;
+    width: 1072px;
+    height: 723.3px;
+    margin: 130px 322px 130px 206px;
+  }
+  .failure-content-section {
+    margin: 50px 322px 214px 87px;
+  }
+  .header {
+    margin: 50px 492px 24px 55px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+  }
+  .paragraph {
+    margin: 24px 365px 16px 55px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+  }
+  .content {
+    margin: 16px 431px 131px 55px;
+    gap: 8px;
+  }
+  .failure-content {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+  }
+  i {
+    width: 24px;
+    height: 24.19px;
+    left: 820px;
+    top: 1533.13px;
+    color: green;
+  }
+  /* my plan section styles */
+  .skills {
+    display: flex;
+    margin: 50px 229px 130px 230px;
+    justify-content: space-around;
+  }
+  .title {
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+  }
+  .habit-title {
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin: 16px auto;
+  }
+  .text {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+  }
+  /* gradient styles */
+  .grad-img{
+    background-image: url(../watch.png);
+    background-repeat: no-repeat;
+    margin-left: 15%;
+    margin-bottom: 100px;
+    }
+    .gradient{
+    margin-top: 127px;
+    height: 300px;
+    width: 1140px;
+    background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+    }
+    .grad-title{
+    margin-left: 65px;
+    padding-top: 120px;
+    color: #fcfdff;
+    margin-bottom: 24px;
+    }
+    li {
+      list-style: none;
+      margin-left: 65px;
+    }
+    .call{
+      border-radius: 5px;
+      border: 0;
+      width: 160px;
+      height: 64px;
+      font-weight: 600;
+      font-size: 20px;
+      text-align: left;
+      line-height: 23px;
+      color: #005fac;
+      padding: 20px 25px;
+    }
+    /* future style */
+    section.future {
+      /* width: 1600px;
+      height: 400px; */
+      left: 0px;
+      top: 2651.96px;
+      background: #151414;
+    }
+    
+    .future-content {
+      display: flex;
+    }
+    
+    .footer-text {
+      color: #f8f8f8;
+      width: 485px;
+      height: 319.48px;
+      padding: 104px 50px 10px 268px;
+    }
+    
+    .subscribe {
+      width: 325px;
+      height: 204px;
+      left: 1046px;
+      top: 2781.96px;
+      margin: 130px 229px 243px 293px;
+    }
+    
+    .footer-title {
+      font-weight: 700;
+      font-size: 45px;
+      line-height: 53px;
+    
+      color: #f8f8f8;
+    }
+    
+    .footer-para {
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 26px;
+      color: #ffffff;
+      margin-bottom: 32px;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+    
+    .social-icon {
+    }
+    
+    .social-anchor {
+      padding: 10px 293px 153px 268px;
+    }
+    
+    .subscribe-title {
+      font-weight: 600;
+      font-size: 25px;
+      line-height: 29px;
+    
+      color: #ffffff;
+    }
+    
+    
+    .email {
+      width: 325px;
+      height: 50px;
+      margin-bottom: 32px;
+      margin-top: 16px;
+      border-radius: 5px;
+      padding: 18px 30px;
+    }
+    
+    .subscribe2 {
+      width: 170.11px;
+      height: 64px;
+      left: 1071px;
+      top: 2936px;
+      font-weight: 600;
+      font-size: 20px;
+      line-height: 24px;
+      color: #ffffff;
+      background: #005fac;
+      border-radius: 8px;
+      border: 0px;
+      padding: 20px 36px;
+    }
